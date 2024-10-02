@@ -1,4 +1,4 @@
-const words = ['apple', 'banana', 'orange', 'grape', 'kiwi', 'pineapple', 'mango', 'pear', 'peach'];
+const words = ['apelsin', 'banan', 'druva', 'tomat', 'kiwi', 'ananas', 'mango', 'pear', 'persika'];
 let chosenWord = '';
 let remainingAttempts = 6;
 let guessedLetters = [];
